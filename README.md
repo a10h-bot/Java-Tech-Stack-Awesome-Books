@@ -4,5 +4,6 @@ Awesome books for developer using Java Tech Stack
 * Spring Boot
 * Hibernate
 * Core Java
+* Algorithms
 * SQl
 * Junit
