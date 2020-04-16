@@ -5,6 +5,6 @@ Awesome books for developer using Java Tech Stack
 * Hibernate
 * Core Java
 * Algorithms
-* SQl
+* SQL
 * Junit
 * Java Performance - The Definitive Guide
