@@ -1,2 +1,2 @@
 # Java-Tech-Stack-Awesome-Books
-Awesome books for Java Tech Stack developer
+Awesome books for developer using Java Tech Stack 
