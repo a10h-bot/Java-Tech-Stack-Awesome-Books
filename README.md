@@ -7,3 +7,4 @@ Awesome books for developer using Java Tech Stack
 * Algorithms
 * SQl
 * Junit
+* Java Performance - The Definitive Guide
