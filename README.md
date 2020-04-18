@@ -8,3 +8,4 @@ Awesome books for developer using Java Tech Stack
 * SQL
 * Junit
 * Java Performance - The Definitive Guide
+* Modern Java in action
